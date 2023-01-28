@@ -1,0 +1,6 @@
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe.config
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\obj\Debug\abstractClass.csprojResolveAssemblyReference.cache
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.pdb
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\obj\Debug\abstractClass.exe
+c:\users\nishita roy\onedrive\documents\visual studio 2012\Projects\abstractClass\abstractClass\obj\Debug\abstractClass.pdb
